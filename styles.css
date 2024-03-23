@@ -9,7 +9,7 @@
 	text-align: center;
     margin: 50px auto;
 }
-.left{
+.green{
 	height:50px;
 	width:50px;
 	background-color:green;
@@ -18,7 +18,7 @@
 	display:inline-block;
 	
 }
-.middle{
+.yellow{
 	height:50px;
 	width:50px;
 	background-color:yellow;
@@ -27,7 +27,7 @@
 	display:inline-block;
 	
 }
-.right{
+.red{
 	height:50px;
 	width:50px;
 	background-color:red;
